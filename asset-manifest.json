@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bharathvote/static/css/main.d3625949.css",
+    "main.js": "/bharathvote/static/js/main.f9904333.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/bharathvote/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/bharathvote/index.html",
+    "main.d3625949.css.map": "/bharathvote/static/css/main.d3625949.css.map",
+    "main.f9904333.js.map": "/bharathvote/static/js/main.f9904333.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/bharathvote/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3625949.css",
+    "static/js/main.f9904333.js"
+  ]
+}
